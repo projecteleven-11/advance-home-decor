@@ -20,7 +20,7 @@ function App() {
         </a>
       </div>
       <h1>Advance Home Decor</h1>
-      <h3>Website is under construction!!!!!! 🚧 <br />
+      <h3>Website is under construction! 🚧 <br />
       till then you can connect with us on:</h3>
       <p>🏠 17, Kailash Vihar, City Center Gwalior</p>
       <p>📲 07247745007</p>
