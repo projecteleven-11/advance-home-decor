@@ -24,6 +24,9 @@ function App() {
       till then you can connect with us on:</h3>
       <p>🏠 17, Kailash Vihar, City Center Gwalior</p>
       <p>📲 07247745007</p>
+      <h2>Branch Offices</h2>
+      <p>🏠 B2-1106, DB Pride, Talawali Chanda Near Dewas Naka, Indore (Madhya Pradesh)</p>
+      <p>🏠 A-427, 4th Floor, Vashist Complex M.G. Road, Sikanerpur, Gurugram - 122002 (Harayana)</p>
       {/* <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
